@@ -1,5 +1,10 @@
 streamlit==1.40.2
-torch
-torchvision
-Pillow==9.5.0
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1
+torchvision==0.21.0
+
+Pillow==11.2.1
 wheel
+setuptools
+
