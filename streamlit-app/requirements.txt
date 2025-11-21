@@ -1,9 +1,6 @@
 streamlit==1.40.2
-
---extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.5.1
 torchvision==0.21.0
-
 Pillow==11.2.1
 wheel
 setuptools
