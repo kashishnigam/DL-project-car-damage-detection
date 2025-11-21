@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv_Car_Damage_Detection/
+venv/
+.venv/
+
+Training/dataset/
+Training/saved_model.pth
+
+
+.DS_Store
+Thumbs.db
